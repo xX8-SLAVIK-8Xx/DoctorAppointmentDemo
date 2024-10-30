@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doctors>
+ <doctor>
+  <Id>0</Id>
+  <Name>иван</Name>
+  <Surname>иванович</Surname>
+  <Phone>0000000000</Phone>
+  <Email>e@gmail.com</Email>
+  <DoctorType>FamilyDoctor</DoctorType>
+  <Experience>20</Experience>
+  <Salary>200</Salary>
+  <CreatedAt>01.01.0001 00:00:00</CreatedAt>
+  <UpdatedAt>01.01.0001 00:00:00</UpdatedAt>
+</doctor><doctor>
+  <Id>0</Id>
+  <Name>иван</Name>
+  <Surname>иванович</Surname>
+  <Phone>0000000000</Phone>
+  <Email>e@gmail.com</Email>
+  <DoctorType>FamilyDoctor</DoctorType>
+  <Experience>20</Experience>
+  <Salary>200</Salary>
+  <CreatedAt>01.01.0001 00:00:00</CreatedAt>
+  <UpdatedAt>01.01.0001 00:00:00</UpdatedAt>
+</doctor><doctor>
+  <Id>0</Id>
+  <Name>Иван</Name>
+  <Surname>Иванович</Surname>
+  <Phone>0974672857</Phone>
+  <Email>e@gmail.com</Email>
+  <DoctorType>FamilyDoctor</DoctorType>
+  <Experience>20</Experience>
+  <Salary>200</Salary>
+  <CreatedAt>01.01.0001 00:00:00</CreatedAt>
+  <UpdatedAt>01.01.0001 00:00:00</UpdatedAt<doctor>
+  <Id>0</Id>
+  <Name>Иван</Name>
+  <Surname>Иванович</Surname>
+  <Phone>0974672857</Phone>
+  <Email>e@gmail.com</Email>
+  <DoctorType>FamilyDoctor</DoctorType>
+  <Experience>20</Experience>
+  <Salary>200</Salary>
+  <CreatedAt>01.01.0001 00:00:00</CreatedAt>
+  <UpdatedAt>01.01.0001 00:00:00</UpdatedAt>
+</doctor><doctor>
+  <Id>0</Id>
+  <Name>Иван</Name>
+  <Surname>Иванович</Surname>
+  <Phone>0974672857</Phone>
+  <Email>e@gmail.com</Email>
+  <DoctorType>FamilyDoctor</DoctorType>
+  <Experience>20</Experience>
+  <Salary>200</Salary>
+  <CreatedAt>01.01.0001 00:00:00</CreatedAt>
+  <UpdatedAt>01.01.0001 00:00:00</UpdatedAt>
+</doctor></doctors>
